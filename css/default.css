@@ -1,0 +1,10 @@
+body {
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+.navbar {
+   margin-bottom: 5px;
+}
+textarea.code {
+   font: x-small monospace;
+}

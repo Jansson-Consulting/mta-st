@@ -1,0 +1,11 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+<style>
+text { font: normal 95px serif; }
+.fav { stroke: blue; fill: blue; }
+@media (prefers-color-scheme: dark) {
+   .fav { stroke: lightblue; fill: lightblue; }
+}
+</style>
+<text x="5" y="70" class="fav">J</text>
+<text x="35" y="95" class="fav">C</text>
+</svg>
